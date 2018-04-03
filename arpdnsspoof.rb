@@ -216,7 +216,7 @@ def runRouter (adrsHash, dnsHash)
 	}
 end
 
-if ARGV[0] == "-h"
+if ARGV[0] == "-h" || ARGV[0] == nil
 	puts
 	puts "ARPspoof and DNSspoof in one applocation"
 	puts "The application spoofs only the victims ARP table and modifies DNS responses according to the information in arpdnsspoof.conf"
