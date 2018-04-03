@@ -1,6 +1,6 @@
 # ARPDNSSPOOF
 
-ARPspoof and DNSSpoof in one aplication. It poisons the ARP table of the victim and modifies DNS responses to the victim. ARPDNSSPOOF does not modify the ARP table of the gateway switch.
+ARPspoof and DNSspoof in one aplication. It poisons the ARP table of the victim and modifies DNS responses to the victim. ARPDNSSPOOF does not modify the ARP table of the gateway switch.
 
 ### Install Requirements
 
